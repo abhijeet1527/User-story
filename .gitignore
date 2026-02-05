@@ -1,0 +1,5 @@
+# Ignore log file
+log.txt
+
+# Ignore directory
+dir1/
